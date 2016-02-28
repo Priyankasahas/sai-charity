@@ -90,7 +90,6 @@ end
 require 'active_support/all'
 Time.zone = 'Australia/Melbourne'
 
-require 'support/urls'
 require 'webmock/rspec'
 require 'vcr'
 require 'timecop'

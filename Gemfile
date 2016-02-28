@@ -6,6 +6,7 @@ gem 'rails', '4.2.4'
 gem 'rails-api'
 
 gem 'active_model_serializers'
+gem 'bcrypt'
 gem 'faraday'
 gem 'faraday-http-cache'
 gem 'faraday_middleware'
